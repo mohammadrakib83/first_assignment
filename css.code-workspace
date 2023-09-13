@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../FIRST CLASS PROJECT/css"
+		},
+		{
+			"path": "../FIRST CLASS PROJECT/image"
+		},
+		{
+			"path": "../FIRST CLASS PROJECT/rakib"
+		},
+		{
+			"path": "image"
+		},
+		{
+			"path": "css"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"ritwickdey.liveserver"
+		]
+	}
+}
